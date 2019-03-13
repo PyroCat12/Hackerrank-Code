@@ -25,4 +25,4 @@ public class Solution {
         System.out.println("France: " + france);
     }
 }
-/before doing this I did not realize there was an actual format for currency in Java for different countries
+//before doing this I did not realize there was an actual format for currency in Java for different countries
