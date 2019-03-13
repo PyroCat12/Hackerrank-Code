@@ -1,0 +1,20 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+       Scanner in = new Scanner(System.in);
+        for (int i = 1; in.hasNextLine(); i++) {
+            System.out.println(i + " " + in.nextLine());
+        }
+        in.close();
+}
+}
+ 
+ 
+ // this is not my code, I had to look this one up. I got stuck for roughly 45 min on this, trying and failing.
