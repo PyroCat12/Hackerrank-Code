@@ -1,0 +1,7 @@
+#very basic code practice
+if __name__ == '__main__':
+    a = int(input()) #the users inputs
+    b = int(input())
+print(a+b) #adds
+print(a-b) #subtracts 
+print(a*b) #multiplies
